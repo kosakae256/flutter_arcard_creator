@@ -1,0 +1,2 @@
+cp -f /Users/kosakae256/develop/flutter_tutorial/myapp/fix_script/UnityAppController.h /Users/kosakae256/develop/flutter_tutorial/myapp/ios/UnityLibrary/Classes/UnityAppController.h
+cp -f /Users/kosakae256/develop/flutter_tutorial/myapp/fix_script/UnityAppController.mm /Users/kosakae256/develop/flutter_tutorial/myapp/ios/UnityLibrary/Classes/UnityAppController.mm
